@@ -66,17 +66,10 @@ AgroTech/
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](screenshots/home-page.png)
-
-### Services Section
-![Services](screenshots/services-section.png)
-
-### Products Section
-![Products](screenshots/products-section.png)
-
-### Gallery
-![Gallery](screenshots/gallery.png)
+![Home Page](Screenshots/home-page.png)
+![Services](Screenshots/services.png)
+![Products](Screenshots/products.png)
+![Gallery](Screenshots/gallery.png)
 
 
 # Color Palette
@@ -109,6 +102,13 @@ open index.html
 - [ ] Backend integration (Node.js + MongoDB)
 - [ ] Payment Gateway for product purchase
 
+
+# 👥 Team
+
+| Name | Role | GitHub |
+|------|------|--------|
+|**Aarif Imam**|Home,Gallery,Products, Animation,Responsive testing,| [@Aarifcode](https://github.com/Aarifcode)|
+|**Manish**|About,Services,Contact|[@133manish-yadav456](https://github.com/133manish-yadav456) |
 
 
 
