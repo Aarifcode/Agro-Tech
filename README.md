@@ -7,7 +7,7 @@ Agro Tech is a modern, responsive agricultural technology website designed to he
 <p align="center">
 
 <a href="https://aarifcode.github.io/Agro-Tech/">
-    <img src="https://img.shields.io/badge/🎓%20Student%20Portal-Live-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🎓%20Agro%20Tech-Live-blue?style=for-the-badge">
 </a>
 
 
