@@ -11,3 +11,101 @@ Agro Tech is a modern, responsive agricultural technology website designed to he
 </a>
 
 
+
+# ✨ Features
+
+## 🌱 Agro Tech
+
+- Home
+- About
+- Services
+- Products
+- Gallery
+- Contact
+- Login
+- Dark-Mode
+
+# Project Files
+
+
+```text
+
+AgroTech/
+│── index.html
+│── about.html
+│── services.html
+│── products.html
+│── gallery.html
+│── contact.html
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── animations.css
+├── images/
+└── icons/
+
+```
+
+# Features list
+- Responsive Navbar
+- Hero Slider / Hero Section
+- Scroll Animation
+- Hover Effects
+- Animated Counters
+- Glass Cards
+- Product Cards
+- Dark/Light Mode
+
+
+# Tech stack 
+- HTML 
+- CSS 
+- JS
+
+
+# Screenshot
+
+
+
+
+
+# Color Palette
+| Color | NameHex | Where will the code be used? |
+|------|------|--------|
+|🟢 Primary Green|#2E7D32|Main brand color — navbar, buttons, headings, logo|
+|🟢 Light Green|#66BB6A| Hover effects, secondary buttons, accents, icons|
+|🟡 Yellow| #FBC02D| Highlight/CTA elements — "Get Started" button, badges, ratings, offers|
+|⚪ White|#FFFFFF|Text on dark backgrounds, card backgrounds, clean spacing|
+|⚫ Dark|#263238|Footer background, dark mode base, body text color|
+|🌿 Background| #F5F9F4|Overall page background — halka off-white/green tint, soft aur clean look ke liye|
+
+
+# ⚙️ Installation
+
+```bash
+git clone <repository-url>
+
+open index.html
+
+
+```
+
+## 🚀 Future Scope
+- [ ] User Authentication (Login/Register)
+- [ ] Farmer Dashboard with crop analytics
+- [ ] Admin Dashboard for content/order management
+- [ ] FAQ Page
+- [ ] Full Blog Section
+- [ ] Backend integration (Node.js + MongoDB)
+- [ ] Payment Gateway for product purchase
+
+
+
+
+
+
+
+
+
+
+
