@@ -63,10 +63,20 @@ AgroTech/
 - JS
 
 
-# Screenshot
 
+## 📸 Screenshots
 
+### Home Page
+![Home Page](screenshots/home-page.png)
 
+### Services Section
+![Services](screenshots/services-section.png)
+
+### Products Section
+![Products](screenshots/products-section.png)
+
+### Gallery
+![Gallery](screenshots/gallery.png)
 
 
 # Color Palette
